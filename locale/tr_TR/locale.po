@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: welcomeEmail\n"
+"POT-Creation-Date: 2026-01-17T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-01-17T00:00:00+00:00\n"
+"Last-Translator: Kerim Sarıgül <info@ojs-services.com>\n"
+"Language-Team: OJS Services\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.welcomeEmail.displayName"
+msgstr "Hoş Geldiniz E-postası"
+
+msgid "plugins.generic.welcomeEmail.description"
+msgstr "E-posta aktivasyonu gerektirmeden, kullanıcı kaydından sonra hoş geldiniz e-postası gönderir."
+
+msgid "plugins.generic.welcomeEmail.emailSubject"
+msgstr "{$journalName} - Hoş Geldiniz"
+
+msgid "plugins.generic.welcomeEmail.emailGreeting"
+msgstr "Sayın <strong>{$userName}</strong>,"
+
+msgid "plugins.generic.welcomeEmail.emailThankYou"
+msgstr "<strong>{$journalName}</strong> dergisine kayıt olduğunuz için teşekkür ederiz."
+
+msgid "plugins.generic.welcomeEmail.emailAccountCreated"
+msgstr "Hesabınız başarıyla oluşturuldu. Artık giriş yapabilir ve sistemin tüm özelliklerine erişebilirsiniz."
+
+msgid "plugins.generic.welcomeEmail.emailVisitButton"
+msgstr "Web Sitemizi Ziyaret Edin"
+
+msgid "plugins.generic.welcomeEmail.emailRegards"
+msgstr "Saygılarımızla,"
+
+msgid "plugins.generic.welcomeEmail.emailAutoMessage"
+msgstr "Bu otomatik bir mesajdır. Lütfen bu e-postayı doğrudan yanıtlamayın."

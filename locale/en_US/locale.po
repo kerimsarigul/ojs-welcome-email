@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: welcomeEmail\n"
+"POT-Creation-Date: 2026-01-17T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-01-17T00:00:00+00:00\n"
+"Last-Translator: Kerim Sarıgül <info@ojs-services.com>\n"
+"Language-Team: OJS Services\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.welcomeEmail.displayName"
+msgstr "Welcome Email"
+
+msgid "plugins.generic.welcomeEmail.description"
+msgstr "Sends a welcome email to users after self-registration without requiring email activation."
+
+msgid "plugins.generic.welcomeEmail.emailSubject"
+msgstr "Welcome to {$journalName}"
+
+msgid "plugins.generic.welcomeEmail.emailGreeting"
+msgstr "Dear <strong>{$userName}</strong>,"
+
+msgid "plugins.generic.welcomeEmail.emailThankYou"
+msgstr "Thank you for registering at <strong>{$journalName}</strong>."
+
+msgid "plugins.generic.welcomeEmail.emailAccountCreated"
+msgstr "Your account has been successfully created. You can now log in and access all features of our system."
+
+msgid "plugins.generic.welcomeEmail.emailVisitButton"
+msgstr "Visit Our Website"
+
+msgid "plugins.generic.welcomeEmail.emailRegards"
+msgstr "Best regards,"
+
+msgid "plugins.generic.welcomeEmail.emailAutoMessage"
+msgstr "This is an automated message. Please do not reply directly to this email."
